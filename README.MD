@@ -1,6 +1,6 @@
 
 
-<img src="https://github-stats-alpha.vercel.app/api?username=papiricoh&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+<img src="https://github-stats-alpha.vercel.app/api?username=pablo-rico&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 <hr>
 <h2>My Skills:</h2>
 <p>
@@ -25,9 +25,9 @@
 </p>
 <p align="center">
   <br>
-  <img height="260" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=papiricoh&theme=dracula&layout=compact&hide_border=true" alt="papiricoh :: Top Langs by commit" />
-  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh&theme=transparent" alt="papiricoh :: Top Langs by files" />
+  <img height="260" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pablo-rico&theme=dracula&layout=compact&hide_border=true" alt="pablo-rico :: Top Langs by commit" />
+  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-rico&theme=transparent" alt="papiricoh :: Top Langs by files" />
 </p>
 
 ## Activity Graph
-[![Papiricoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=papiricoh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pablo-rico's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pablo-rico&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
