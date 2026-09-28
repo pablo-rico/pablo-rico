@@ -26,8 +26,4 @@
 <p align="center">
   <br>
   <img height="260" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pablo-rico&theme=dracula&layout=compact&hide_border=true" alt="pablo-rico :: Top Langs by commit" />
-  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-rico&theme=transparent" alt="papiricoh :: Top Langs by files" />
 </p>
-
-## Activity Graph
-[![Pablo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pablo-rico)](https://github.com/ashutosh00710/github-readme-activity-graph)
