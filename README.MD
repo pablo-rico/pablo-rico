@@ -30,4 +30,4 @@
 </p>
 
 ## Activity Graph
-[![Pablo-rico's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pablo-rico&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pablo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pablo-rico)](https://github.com/ashutosh00710/github-readme-activity-graph)
